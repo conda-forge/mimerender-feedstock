@@ -33,7 +33,7 @@ test:
 
 about:
   home: https://github.com/martinblech/mimerender
-  license: MIT License
+  license: MIT
   # license_file: No MANIFEST.in - see https://github.com/martinblech/mimerender/issues/34
   license_family: MIT
   summary: 'RESTful HTTP Content Negotiation for Flask, Bottle, web.py and webapp2 (Google App Engine)'
